@@ -6,7 +6,7 @@ I am very interested in social systems which can systematically enhance learning
  
 My general interests are on social computing, HCI, and computational social science.studying behaviours interefnces of online learning behaviors 
 
-⚡ Find me in WEB [ wwww.bit.ly/dilrukshigamage](wwww.bit.ly/dilrukshigamage) 
+⚡ Find me in WEB [ www.bit.ly/dilrukshigamage](wwww.bit.ly/dilrukshigamage) 
 
 ⚡ Email - dilrukshi.gamage@gmail.com
 
