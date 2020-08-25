@@ -1,4 +1,4 @@
-# Dilrukshi Ggamage 
+# Dilrukshi Ggamage      
 
 ## A Computational social scientist. I study on large scale open online courses, specifically MOOCs. Mainly focusing on designing and building systems to improve discourse, collaboration, and interaction among MOOC participants. 
 
@@ -6,7 +6,7 @@
  
 ## My general interests are on social computing, HCI, and computational social science.studying behaviours interefnces of online learning behaviors 
 
- ## ⚡ Find me in WEB [ www.bit.ly/dilrukshigamage](wwww.bit.ly/dilrukshigamage) 
+## ⚡ Find me in WEB [www.bit.ly/dilrukshigamage](www.bit.ly/dilrukshigamage) 
 
 ## ⚡ Email - dilrukshi.gamage@gmail.com
 
