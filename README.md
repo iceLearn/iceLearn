@@ -1,14 +1,10 @@
 # Dilrukshi Ggamage      
 
 ## I am a postdoctoral fellow at the Sasahara Lab, Department of Innovation Science, Tokyo Insitute of Technology (Tokyo Tech). 
-## My research is in the feild of Human-Computer Interaction and Computational Social Science. 
-
-## In my postdoctral research, I primarily focus on "DeepFake/ AI" generated Misinformation and societal implications.
+## My research is in the feild of Human-Computer Interaction and Computational Social Science. In my postdoctral research, I primarily focus on "DeepFake/ AI" generated Misinformation and societal implications.
 ## My Ph.D. has been focused on large scale open online learning  -MOOCs, HCI and Learning Analytics. ts. 
 
-## I am very interested in social systems which can systematically enhance learning in a community by building trust and facilitation. 
- 
-## My general interests are on social computing, HCI, and computational social science.studying behaviours interefnces of online behaviors 
+## I am very interested in social systems which can systematically enhance learning in a community by building trust and facilitation. My general interests are on social computing, HCI, and computational social science.studying behaviours interefnces of online behaviors 
 
 ## ⚡ Find me in WEB [www.bit.ly/dilrukshigamage](https://www.bit.ly/dilrukshigamage) 
 
